@@ -1,0 +1,60 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  
+  .navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  .carousel img {
+    border-radius: 10px;
+  }
+  
+
+  .card {
+    border-radius: 10px;
+    background-color: #ffffff;
+  }
+  
+  .card h2 {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    border-radius: 5px;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    border: none;
+    transition: 0.3s;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333;
+  }
+
+
+  .carousel-caption {
+    color: white !important; 
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.8); 
+    background: rgba(0, 0, 0, 0.5); 
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .carousel-inner img {
+    width: 100%;
+    height: 500px; 
+    object-fit: cover; 
+  }
+  
+
+  
+
+
+  
